@@ -1,9 +1,9 @@
 # react-makes-you-sad
 Here’s a flowchart to make you happy again!
 
-## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Open in a new tab</a>
+## <a href='https://raw.githubusercontent.com/darrenmothersele/react-makes-you-sad/master/fatigue.svg' target='_blank'>Open in a new tab</a>
 
-<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
+<img src='https://raw.githubusercontent.com/darrenmothersele/react-makes-you-sad/master/fatigue.svg'>
 
 ## Credits
 
