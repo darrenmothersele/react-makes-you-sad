@@ -1,10 +1,23 @@
 digraph {
+  esep=1;
+  nodesep=0.6;
+
   unhappy[
     shape="box",
     style=rounded,
     label="React makes you sad."
   ]
-  unhappy -> are_you_using_react_boilerplates;
+  unhappy -> do_you_object_to_patents[label=""]
+
+  # Patent Concerns
+
+  do_you_object_to_patents[
+    shape="diamond",
+    label="Do you object to
+    software patents?"
+  ]
+  do_you_object_to_patents -> unhappy[label="yes"]
+  do_you_object_to_patents -> are_you_using_react_boilerplates[label="no"]
 
   # Boilerplate Fatigue
 
